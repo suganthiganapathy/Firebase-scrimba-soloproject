@@ -59,20 +59,17 @@ img{
 .displayItems{
     padding-bottom: 2px;
     border:2px solid black;
+    border:none;
+    margin-top: 20px;
     margin-bottom: 10px;
     list-style: none;
     width:330px;
+    height:auto;
     padding-left:10px;
+    box-shadow: 0 0 2px 2px lightblue;
 }
 .displaydata{
     border:2px solid black;
     margin-bottom: 12px;
     padding:10px 10px;
-}
-.resultContainer{
-    height:100px;
-    width: 280px;
-    /* border:2px solid black; */
-    margin-top: 20px;
-    padding:10px;
 }

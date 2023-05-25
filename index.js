@@ -74,7 +74,7 @@ function clear(){
 
 }
 function dispayInput(fromValue,toValue,inputItemValue) {
-  listElements.innerHTML +=`<li class="displayItems">From:${fromValue}<br/>${inputItemValue}<br/>TO:${toValue}  <br/></li> `
+  listElements.innerHTML +=`<li class="displayItems">From:${fromValue}<br/>${inputItemValue}<br/>To:${toValue}  <br/></li> `
 
 // displayTxtElement.textContent +=`${inputItemValue}`;
 clear()
